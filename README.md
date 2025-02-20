@@ -16,7 +16,7 @@ pip install gradio
 
 项目结构
 ```bash
-├── app.py            # 启动 Gradio 界面的脚本
+├── InferenceGradioV5.py            # 启动 Gradio 界面的脚本
 ├── InferenceGradioV5.py  # 视频处理与检测的核心脚本
 ├── file/             # 存放图标、视频文件等资源
 │   └── icon.png      # 可自定义的 Logo 图标
