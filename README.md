@@ -56,6 +56,7 @@ pip install gradio
     处理后的视频会自动播放，用户可以查看处理效果。
 
 自定义与扩展
+```bash
 1. 自定义 Logo
 
 可以通过替换 file/icon.png 文件来自定义 Logo。
@@ -68,7 +69,7 @@ pip install gradio
 许可证
 
 此项目采用 MIT 许可证。
-
+```
 ### 说明：
 
 - **安装依赖** 部分指导用户如何安装 `gradio` 库。
