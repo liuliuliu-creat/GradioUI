@@ -21,9 +21,9 @@ pip install gradio
 ```bash
 ├── InferenceGradioV5.py # 启动 Gradio 界面的脚本
 ├── file/             # 存放图标、视频文件等资源
-│   └── icon.png      # 可自定义的 Logo 图标
 │   └── base64/
 │       └── toBase64.py
+│       └── icon.png      # 可自定义的 Logo 图标
 └── README.md         # 项目的文档文件
 
 ```
@@ -62,7 +62,7 @@ pip install gradio
 ## 🛠 自定义与扩展
 
 ### 自定义 Logo
-- 可以通过替换 icon_path 中的 file/icon.png 文件来自定义 Logo。
+- 可以通过替换 icon_path 中的 file/base64/icon.png 文件来自定义 Logo。
   
 ### 添加更多默认视频
 - 在 DEFAULT_VIDEOS 字典中添加更多预设视频路径。
