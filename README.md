@@ -22,6 +22,8 @@ pip install gradio
 ├── InferenceGradioV5.py # 启动 Gradio 界面的脚本
 ├── file/             # 存放图标、视频文件等资源
 │   └── icon.png      # 可自定义的 Logo 图标
+│   └── base64/
+│       └── toBase64.py
 └── README.md         # 项目的文档文件
 
 ```
