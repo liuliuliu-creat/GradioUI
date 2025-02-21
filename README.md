@@ -59,7 +59,7 @@ pip install gradio
 ## 🛠 自定义与扩展
 
 ### 自定义 Logo
-- 可以通过替换 file/icon.png 文件来自定义 Logo。
+- 可以通过替换 icon_path 中的 file/icon.png 文件来自定义 Logo。
   
 ### 添加更多默认视频
 - 在 DEFAULT_VIDEOS 字典中添加更多预设视频路径。
