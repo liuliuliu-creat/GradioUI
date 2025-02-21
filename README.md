@@ -1,6 +1,8 @@
 # 🎉 welcome 🎉
 
 # 🎉 这是一个简洁直观的 Gradio 界面，让你轻松处理和分析视频。你可以选择默认视频或上传自己的视频进行处理，处理结果将实时展示。🎉
+![image](https://github.com/user-attachments/assets/0f9894a0-3273-4032-bf17-ee57ffe24aca)
+
 
 ## 🚀 环境准备
 
