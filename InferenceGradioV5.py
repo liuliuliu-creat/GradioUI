@@ -30,7 +30,7 @@ with gr.Blocks(theme=gr.themes.Soft()) as iface:
     # 顶部布局：Logo、标题和提示
     with gr.Row():
         try:
-            icon_path="file/icon.png"
+            icon_path="file/base64/icon.png"
             icon_base64=image_to_base64(icon_path)
         except Exception as e:
             print(f"图像文件无效: {e}")
