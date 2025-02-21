@@ -50,7 +50,7 @@ with gr.Blocks(theme=gr.themes.Soft()) as iface:
             gr.HTML(
                 """
                 <h1 style='margin: 0; text-align: left; font-size: 40px; font-family: Arial, sans-serif; font-weight: bold; color: #2575fc;'>
-                    **********************************
+                    ************************************
                 </h1>
                 """
             )
